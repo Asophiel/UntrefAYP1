@@ -1,0 +1,4 @@
+
+class Destruccion2Asteroides {
+
+}

@@ -7,9 +7,9 @@ class Consulta {
 			
 	}
 	
-boolean menorDeEdad() {
+	boolean menorDeEdad() {
 		
-		return edad < 18;
-}
+			return edad < 18;
+	}
 }
 
